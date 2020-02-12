@@ -1,0 +1,105 @@
+
+@import url('https://fonts.googleapis.com/css?family=Kumar+One|Lora|Roboto&display=swap');
+@import url('components/upper_banner.css');
+@import url('components/profile_lay_out.css');
+
+body {
+	font-family: 'roboto',serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+.main_title {
+    font-family: 'roboto';
+    text-align: center;
+    font-size: 26px;
+    position: relative;
+}
+
+#value_prop {
+    font-family: 'roboto';
+    text-align: center;
+    font-size: 22px;
+    position: relative;
+    font-weight: lighter;
+    line-height: 40px;
+    margin: 40px;
+}    
+
+
+h3 {
+	font-family: 'roboto';
+	font-weight: lighter;
+	font-size: 14px;
+}
+
+.homepage_images {
+    display: inline-flex; 
+    text-align: center;
+    margin: 50px 354px;
+}
+
+#image_left {
+	margin-right: 4px;
+	align-items: center;
+}
+
+#scroll_down {
+	align-items: center;
+	margin: 10px 533px;
+}
+
+.bloc_homepage {
+	text-decoration: none;
+	color: black;
+	font-family: 'roboto';
+	font-size: 18px;
+	font-weight: lighter;
+}
+
+.typeform-widget {
+	margin: 0px auto;
+}
+
+#im {
+	border-radius: 50%;
+	padding: 10px 20px;
+}
+
+#im2 {
+	border-radius: 50%;
+	padding: 10px 20px;
+}
+
+#im3 {
+	border-radius: 50%;
+	padding: 10px 20px;
+}
+
+#im4 {
+	border-radius: 50%;
+	padding: 10px 20px;
+}
+
+#im5 {
+	border-radius: 50%;
+	padding: 10px 20px;
+}
+
+@media (max-width: 960px) {
+	.container {
+		width: 700px;
+	}
+}
+
+@media (max-width: 720px) {
+	.container {
+		width: 500px;
+	}
+}
+
+@media (max-width: 540px) {
+	.container {
+		width: 300px;
+	} 
+}

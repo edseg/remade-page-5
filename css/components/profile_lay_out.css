@@ -1,0 +1,5 @@
+.profile_lay_out {
+	display: inline-flex;
+	border-radius: 50%;
+	margin: 20px;
+}

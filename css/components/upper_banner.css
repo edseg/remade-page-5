@@ -1,0 +1,8 @@
+.content_header {
+	display: inline-flex;
+    width: 90%;
+    justify-content: space-between;
+    height: 40px;
+    padding: 10px;
+    padding-left: 70px;
+ }
